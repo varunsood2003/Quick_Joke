@@ -1,0 +1,27 @@
+body{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    background-color:#E4DCCF;
+}
+#jokeElement{
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 25px;
+    border-radius: 10px;
+    border: 5px solid #2C3639;
+    padding: 10px;
+    color: #2C3639;
+}
+#top{
+    display: flex;
+    justify-content: center;
+    background-color: #A27B5C;
+    font-size: 25px;
+    border-radius: 20px;
+    border: 5px solid #2C3639;
+    padding: 5px;
+    color: #E4DCCF;
+
+}
